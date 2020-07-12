@@ -1,16 +1,17 @@
-### Hi there 👋
+### 건강한 개발자(Healthy Developer)를 꿈꾸는 코딩하는펭귄🐧
 
-<!--
-**CoodingPenguin/CoodingPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 `_____`에 관심이 있습니다.
 
-Here are some ideas to get you started:
+* 웹 서버 / 데이터베이스
+* 인공지능 플랫폼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+저는 `_____`를 할 수 있습니다.
+
+* Python, Javascript, C#
+* DL/ML, 웹 개발, Unity 게임 개발
+
+저에게 관심있다면 `_____`를 둘러보세요.
+
+* [블로그](https://cooding-penguin.netlify.app/)
+
+* [인스타그램](https://www.instagram.com/cooding_penguin/)
