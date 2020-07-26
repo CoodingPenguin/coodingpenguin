@@ -17,3 +17,4 @@
 😆 저에게 관심있다면 `_____`를 둘러보세요!
 * [블로그](https://cooding-penguin.netlify.app/)
 * [인스타그램](https://www.instagram.com/cooding_penguin/)
+* [Today 코딩하는펭귄 Learned](https://cooding-penguin-til.netlify.app/)
