@@ -10,5 +10,5 @@
 
 
 😆 저에게 관심있다면 `_____`를 둘러보세요!
-* [코딩하는펭귄의 저장소 블로그](https://cooding-penguin.netlify.app/)
+* [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)
 * [개발전용 인스타](https://www.instagram.com/cooding_penguin/)
