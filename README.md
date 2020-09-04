@@ -11,10 +11,3 @@
 😆 저에게 관심이 있다면 `_____`를 둘러보세요!
 * [개발전용 인스타](https://www.instagram.com/cooding_penguin/)
 * [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)
-
-<br>
-
-💎 저는 `_____`를 넘어 플레티넘을 향해 달리고 있어요!
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=unodostre)](https://solved.ac/unodostre)
