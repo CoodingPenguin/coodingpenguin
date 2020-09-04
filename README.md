@@ -18,5 +18,6 @@
 
 
 💎 저는 `_____`를 넘어 플레티넘을 향해 달리고 있어요!
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={unodostre})](https://solved.ac/{unodostre})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={unodostre})](https://solved.ac/{unodostre})
