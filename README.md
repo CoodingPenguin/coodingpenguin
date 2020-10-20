@@ -1,22 +1,7 @@
-## 코딩하는펭귄🐧
+![dobby-is-free](https://lh3.googleusercontent.com/proxy/g9Y1Fldsn5NUL2hVKEmJYm-9aQw5hCOXBp1HQdHTfo-4FC48dfYqXetR33tsWKepuBvrUH60OLgw25AiBUvXDrmgd_F5xwMhMuOR8nff3E2wTZb44Xn39f8hGNWdXtQoxmz1GyheTvI7hrHzqYGJG6mgcS4NCRZFgPDRJH3YAl13LkxZqPoU1GRwierWNVunsW2Tb7S5jpCewLfiK4u9WyGjAgkWLFGUt0HznzcU81ma_V3crRUfJi8DRbMtorYXsnw8jf2BhKMUNXIYBoF82LrUuuQmthYx3npOs8JP8DQ)
 
-👩‍💻 저는 `_____` 스택을 쌓고 싶어요!
-
-- 프론트엔드 React
-- 백엔드 Python Django
-- 데이터분석 with Pytorch
-
-<br>
-
-✨ 그래서 현재 `_____` 중 입니다!
-
-- 오준석의 플러터 생존코딩으로 [Flutter](https://github.com/CoodingPenguin/flutter-survival-coding-study)💦를 공부
-- 백준과 프로그래머스로 [알고리즘](https://github.com/CoodingPenguin/algorithms)🐣을 공부
-
-<br>
-
-😆 저에게 관심이 있다면 `_____`를 둘러보세요!
+지금은 개발도 공부도 모두 **하고 싶을 때** 합니다🤸‍♀️    
+그동안의 공부, 개발일지가 궁금하시다면 아래를 참고해주세용!
 
 - [개발전용 인스타](https://www.instagram.com/cooding_penguin/)
 - [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)
-- [AI Notebook](https://coodingpenguin.github.io/ai-notebook/)
