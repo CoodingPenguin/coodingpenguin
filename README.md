@@ -1,3 +1,5 @@
+> 리액트를 배우고 처음 만들어본 [영화검색 사이트 StarWatches](https://starwatches.netlify.app)를 구경해보셔용!
+
 👩‍💻 지금은 `______`를 공부하고 있어요!
 
 - [처음 시작하는 파이썬](http://www.yes24.com/Product/Goods/91870652)
