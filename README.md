@@ -1,4 +1,4 @@
-> 리액트를 배우고 처음 만들어본 [영화검색 사이트 StarWatches](https://starwatches.netlify.app)를 구경해보셔용!
+> 리액트를 처음 배우고 만들어 본 [영화검색 사이트 StarWatches](https://starwatches.netlify.app)를 구경해보셔용!
 
 👩‍💻 지금은 `______`를 공부하고 있어요!
 
