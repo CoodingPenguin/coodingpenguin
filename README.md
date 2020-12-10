@@ -15,5 +15,5 @@
 🐧 코딩하는펭귄이 궁금하시다면 `______`을 참고해보세요!
 
 - [개발전용 인스타](https://www.instagram.com/cooding_penguin/)
-- [코딩하는페윈의 TIL](https://bit.ly/cooding-penguin-til)
+- [코딩하는펭귄의 TIL](https://bit.ly/cooding-penguin-til)
 - [코딩하는펭귄의 저장소](https://cooding-penguin.netlify.app/)
