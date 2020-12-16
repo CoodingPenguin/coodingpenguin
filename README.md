@@ -6,6 +6,7 @@
 - [ ] make templates of repository description in Notion
 - [ ] refactoring all README.md
 - [ ] make some private repositories public by deleting complicated files
+- [ ] distribute repos into study/project/blog/etc..
 
 🐧 CoodingPenguin's sites
 
