@@ -2,11 +2,11 @@
 
 ✅ Todos
 
-- [ ] change description from Korean to English
-- [ ] make templates of repository description in Notion
-- [ ] refactoring all README.md
-- [ ] make some private repositories public by deleting complicated files
-- [ ] distribute repos into study/project/blog/etc..
+- [X] change description from Korean to English
+- [X] make templates of repository description in GitHub
+- [x] distribute repos into study/project/blog/etc..
+- [ ] refactoring all README.md (Just Recent Using Repos)
+- [ ] Profile Change! (Ref: https://awesomegithubprofile.tech/)
 
 🐧 CoodingPenguin's sites
 
