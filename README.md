@@ -1,7 +1,7 @@
 ## Hi, I'm CoodingPenguin!<img src="./hello.gif" alt="hello" width="28"/>
 
-- 🎓 Undergraduate Student majored in CS-related-Major
-- 🛫 Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
+- 🎓 **Undergraduate Student** majored in CS-related-Major
+- 🛫 Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
 - 😆 Fun fact: I really love **<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Seal_of_Daejeon.svg" alt="Daejeon" width="15"/>Daejeon** even though I've NEVER lived in there
 - 👀 If you want to **Know Me More**, go to⠀<a href="https://instagram.com/cooding_penguin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>⠀<a href="https://bit.ly/cooding-penguin-til"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/notion.svg" alt="Notion TIL" width="18"/> </a>
 
