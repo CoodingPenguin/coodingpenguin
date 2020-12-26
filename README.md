@@ -5,7 +5,7 @@
 - [X] change description from Korean to English
 - [X] make templates of repository description in GitHub
 - [x] distribute repos into study/project/blog/etc..
-- [ ] refactoring all README.md (Just Recent Using Repos)
+- [] refactoring all README.md (Just Recent Using Repos)
 - [ ] Profile Change! (Ref: https://awesomegithubprofile.tech/)
 
 🐧 CoodingPenguin's sites
