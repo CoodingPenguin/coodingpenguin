@@ -2,7 +2,10 @@
 
 - 🎓 Undergraduate Student majored in CS-related-Major
 - 🛫 Explorer who explores various fields such as Web Full Development, Deep Learning, Data Analysis, etc.
-- 👀 If you wanna **know me more**, go to⠀<a href="https://instagram.com/cooding_penguin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>⠀<a href="https://bit.ly/cooding-penguin-til"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/notion.svg" alt="Notion TIL" width="18"/> </a>
+- 😆 Fun fact: I really love **<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Seal_of_Daejeon.svg" alt="Daejeon" width="15"/>Daejeon** even though I've NEVER lived in there
+- 👀 If you want to **Know Me More**, go to⠀<a href="https://instagram.com/cooding_penguin"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>⠀<a href="https://bit.ly/cooding-penguin-til"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/notion.svg" alt="Notion TIL" width="18"/> </a>
+
+---
 
 ### 👩‍💻 Technologies & Tools
 
@@ -23,9 +26,13 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+---
+
 ### :octocat: GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=coodingpenguin&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coodingpenguin&hide=css,java,html,asp&theme=radical">
 </p>
+
+---
