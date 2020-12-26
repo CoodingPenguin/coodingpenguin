@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CoodingPenguin</h1>
-- 🌱 I’m currently learning **python, react and cs basics**
+
+🌱 I’m currently learning **python, react and cs basics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
