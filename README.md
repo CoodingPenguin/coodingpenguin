@@ -1,4 +1,4 @@
-## Hi I'm CoodingPenguin!👋
+## Hi, I'm CoodingPenguin!<img src="./hello.gif" alt="hello" width="28"/>
 
 - 🎓 Undergraduate Student majored in CS-related-Major
 - 🛫 Explorer in various fields, such as Web Full Development, Deep Learning, Data Analysis, etc.
