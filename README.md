@@ -2,7 +2,7 @@
 
 - 🎓 **Undergraduate Student** who prepares to be a Developer
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
-- 📚 Wanna be a Developer that can **Handle Data**
+- ❤ Love Home-Workout, Kpop-Girl-Group(especially (G)idle)
 - 😆 Fun fact: I really love **<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Seal_of_Daejeon.svg" alt="Daejeon" width="15"/>Daejeon** even though I've **NEVER** lived in there
 - 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"  target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>⠀<a href="https://bit.ly/cooding-penguin-til"  target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/notion.svg" alt="Notion TIL" width="18"/> </a>
 
