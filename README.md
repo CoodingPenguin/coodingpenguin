@@ -5,6 +5,13 @@
 - 😆 Fun fact: I really love **<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Seal_of_Daejeon.svg" align="centeR" alt="Daejeon" width="18"/>Daejeon** even though I've **NEVER** lived in there
 - 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"  target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>
 
+
+
+<details markdown="1">
+<summary><strong>👩‍💻 Technologies & Tools</strong></summary>
+
+<br/>
+
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -23,6 +30,8 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+</details>
 
 <details markdown="1">
 <summary><strong>:octocat: GitHub Stats</strong></summary>
