@@ -1,4 +1,4 @@
-## Hi, I'm CoodingPenguin!<img src="./hello.gif" alt="hello" width="28"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=48&animation=fadeIn&fontAlignY=40)
 
 - 🎓 **Undergraduate Student** who prepares to be a Developer
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
