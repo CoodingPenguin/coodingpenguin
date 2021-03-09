@@ -7,7 +7,7 @@
 
 ----
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><strong>👩‍💻 Technologies & Tools</strong></summary>
 
 <br/>
