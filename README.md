@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 - 🎓 **Undergraduate Student** who prepares to be a Developer
 - ⛺ **Boostcamper** of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation
