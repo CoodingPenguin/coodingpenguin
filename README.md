@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=48&animation=fadeIn&fontAlignY=44)
 
-- 🎓 **Undergraduate Student** who prepares to be a Developer (2016.03 - 2021.08)
-- ⛺ Completed [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation (2021.01 - 2021.06)
+- 🎓 **Undergraduate Student** who prepares to be a Developer `2016.03 - 2021.08`
+- ⛺ Completed [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation `2021.01 - 2021.06`
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
 - 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"  target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>
 
