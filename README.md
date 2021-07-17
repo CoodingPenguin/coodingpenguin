@@ -3,11 +3,11 @@
 - 🎓 **Undergraduate Student** who prepares to be a Developer `2016.03 - 2021.08`
 - ⛺ Completed [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation `2021.01 - 2021.06`
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
-- 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/instagram.svg" alt="Instagram" width="18"/> </a>⠀<a href="https://cooding-penguin.netlify.app"  target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/gatsby.svg" alt="Gatsby Blog" width="18"/> </a>
+- 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/> </a>⠀<a href="https://cooding-penguin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white" alt="Gatsby Blog"/></a>
 
 ----
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><strong>👩‍💻 Technologies & Tools</strong></summary>
 
 <br/>
