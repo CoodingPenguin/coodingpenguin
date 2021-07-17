@@ -1,18 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=48&animation=fadeIn&fontAlignY=44)
-
-- 🎓 **Undergraduate Student** who prepares to be a Developer `2016.03 - 2021.08`
-- ⛺ Completed [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation `2021.01 - 2021.06`
-- ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
-- 👀 If you want to know **MORE** about me, then go to⠀
-
 <div align="center">
-    <a href="mailto:coodingpenguin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="24px"/></a>
-    <a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="24px"/></a>
-    <a href="https://cooding-penguin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white" alt="Gatsby Blog" height="24px"/></a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20CoodingPenguin👋&fontSize=48&animation=fadeIn&fontAlignY=44" alt="header"/>
+    <p>🎓 <strong>Undergraduate Student</strong> who prepares to be a Developer</p>
+    <p>⛺ Completed <strong><a href="https://boostcamp.connect.or.kr/program.html">Boostcamp AI Tech</a></strong> by Naver Connect Foundation</p>
+    <p>✈ Explorer in various fields, such as <strong>Web Full Development, Deep Learning, Data Analysis, etc.</strong></p>
+    <p>👀 If you want to know <strong>MORE</strong> about me, then go to⠀</p>
+    <p>
+        <a href="mailto:coodingpenguin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="24px"/></a>
+        <a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="24px"/></a>
+        <a href="https://cooding-penguin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white" alt="Gatsby Blog" height="24px"/></a>
+    </p>
 </div>
 
 ----
-
+<div align="center">
 <details markdown="1">
 <summary><strong>👩‍💻 Technologies & Tools</strong></summary>
 
@@ -50,3 +50,4 @@
 </p>
 
 </details>
+</div>
