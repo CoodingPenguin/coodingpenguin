@@ -3,7 +3,13 @@
 - 🎓 **Undergraduate Student** who prepares to be a Developer `2016.03 - 2021.08`
 - ⛺ Completed [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation `2021.01 - 2021.06`
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
-- 👀 If you want to know **MORE** about me, then go to⠀<a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="18px"/> </a>⠀<a href="https://cooding-penguin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white" alt="Gatsby Blog" height="18px"/></a>
+- 👀 If you want to know **MORE** about me, then go to⠀
+
+<div align="center">
+    <a href="mailto:coodingpenguin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="24px"/></a>
+    <a href="https://instagram.com/cooding_penguin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="24px"/></a>
+    <a href="https://cooding-penguin.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=Gatsby&logoColor=white" alt="Gatsby Blog" height="24px"/></a>
+</div>
 
 ----
 
