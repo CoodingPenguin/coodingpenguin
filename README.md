@@ -1,5 +1,3 @@
 <div align="center">
-    <img src="./penguin.gif" alt="haha"/>
-    <br/>
-    <h3>Hello 👋</h3>
+    <img src="./일어나코딩해야지.png" alt="wake-up-bro" width="60%"/>
 </div>
