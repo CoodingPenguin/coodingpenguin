@@ -1,5 +1,5 @@
 <div align="center">
     <div>
-        <img src="./penguin.gif" alt="lofi girl" width="40%"/>
+        <img src="./cozy-house.gif" alt="cozy house" width="100%"/>
     </div>
 </div>
